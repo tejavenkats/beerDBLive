@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/beerDBLive/static/css/main.8ec719c2.chunk.css",
+    "main.js": "/beerDBLive/static/js/main.61e518c1.chunk.js",
+    "main.js.map": "/beerDBLive/static/js/main.61e518c1.chunk.js.map",
+    "runtime-main.js": "/beerDBLive/static/js/runtime-main.76d1cb67.js",
+    "runtime-main.js.map": "/beerDBLive/static/js/runtime-main.76d1cb67.js.map",
+    "static/js/2.890f30ad.chunk.js": "/beerDBLive/static/js/2.890f30ad.chunk.js",
+    "static/js/2.890f30ad.chunk.js.map": "/beerDBLive/static/js/2.890f30ad.chunk.js.map",
+    "static/js/3.8b29266e.chunk.js": "/beerDBLive/static/js/3.8b29266e.chunk.js",
+    "static/js/3.8b29266e.chunk.js.map": "/beerDBLive/static/js/3.8b29266e.chunk.js.map",
+    "index.html": "/beerDBLive/index.html",
+    "static/css/main.8ec719c2.chunk.css.map": "/beerDBLive/static/css/main.8ec719c2.chunk.css.map",
+    "static/js/2.890f30ad.chunk.js.LICENSE.txt": "/beerDBLive/static/js/2.890f30ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76d1cb67.js",
+    "static/js/2.890f30ad.chunk.js",
+    "static/css/main.8ec719c2.chunk.css",
+    "static/js/main.61e518c1.chunk.js"
+  ]
+}
